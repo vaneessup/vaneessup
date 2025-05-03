@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and Angular**
 
-- 💬 Ask me about **HTML, CSS, JAVA, C#, VISUAL BASIC, MYSQL, SQL, NODE JS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVA, C#, VISUAL BASIC, MYSQL, SQL, NODE JS, JAVASCRIPT, ANGULAR, TYPESCRIPT, SCSS, UIPATH**
 
 - 📫 How to reach me **vanessaramirez.vr45@gmail.com**
 
