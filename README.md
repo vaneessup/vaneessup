@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vanessa</h1>
+<h1 align="center">Hi 👋, I'm Yeymi</h1>
 <h3 align="center">A passionate developer from Guatemala</h3>
 
 - 🔭 I’m currently working on **process automation and web development**
