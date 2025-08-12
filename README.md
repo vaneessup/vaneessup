@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 <h3 align="center">A passionate developer from Guatemala</h3>
 
-- 🔭 I’m currently working on **process automation**
+- 🔭 I’m currently working on **process automation and web development**
 
-- 🌱 I’m currently learning **Typescript and Angular**
+- 🌱 I have experiencia with **Typescript and Angular**
 
-- 💬 Ask me about **HTML, CSS, JAVA, C#, VISUAL BASIC, MYSQL, SQL, NODE JS, JAVASCRIPT, ANGULAR, TYPESCRIPT, SCSS, UIPATH**
+- 💬 Ask me about **HTML, CSS, JAVA, C#, VISUAL BASIC, MYSQL, SQL, NODE JS, JAVASCRIPT, ANGULAR, TYPESCRIPT, SCSS, UIPATH, REACT and more...**
 
 - 📫 How to reach me **vanessaramirez.vr45@gmail.com**
 
-- ⚡ Fun fact **I think i am curious**
+- ⚡ Fun fact **I think I am curious :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
